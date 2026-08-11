@@ -1,0 +1,47 @@
+{
+    "bottle": {
+        "dataset": "bottle",
+        "format": "YOLO",
+        "images": 8139,
+        "invalid_images": 0,
+        "orphan_labels": 1512,
+        "images_without_labels": 0,
+        "invalid_annotations": 9651
+    },
+    "pcb": {
+        "dataset": "pcb",
+        "format": "YOLO",
+        "images": 10668,
+        "invalid_images": 0,
+        "orphan_labels": 2667,
+        "images_without_labels": 2667,
+        "invalid_annotations": 2667
+    },
+    "road": {
+        "dataset": "road",
+        "format": "Image-only",
+        "images": 40000,
+        "invalid_images": 0
+    },
+    "steel": {
+        "dataset": "steel",
+        "format": "CSV-based",
+        "images": 18074,
+        "invalid_images": 0
+    },
+    "textile": {
+        "dataset": "textile",
+        "format": "COCO/JSON",
+        "images": 2468,
+        "invalid_images": 0
+    },
+    "welding": {
+        "dataset": "welding",
+        "format": "YOLO",
+        "images": 5974,
+        "invalid_images": 0,
+        "orphan_labels": 0,
+        "images_without_labels": 0,
+        "invalid_annotations": 0
+    }
+}

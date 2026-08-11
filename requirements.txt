@@ -1,0 +1,15 @@
+ultralytics
+torch
+torchvision
+opencv-python-headless
+pillow
+numpy
+pandas
+pyyaml
+onnx
+onnxruntime
+fastapi
+uvicorn
+python-multipart
+tqdm
+rich

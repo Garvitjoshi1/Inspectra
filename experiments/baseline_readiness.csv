@@ -1,0 +1,5 @@
+dataset,task,ready,train_images,val_images,test_images
+bottle,detection,True,5420,1799,920
+pcb,detection,True,8534,1066,1068
+textile,detection,False,0,0,0
+welding,detection,False,0,0,0
