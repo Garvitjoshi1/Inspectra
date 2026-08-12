@@ -1,0 +1,28 @@
+[
+    {
+        "dataset": "bottle",
+        "task": "detection",
+        "precision": 0.9670109594891115,
+        "recall": 0.9709702968514925,
+        "map50": 0.9820735036274845,
+        "map50_95": 0.8963879891309094,
+        "evaluation_seconds": 34.56459829999949
+    },
+    {
+        "dataset": "pcb",
+        "task": "detection",
+        "precision": 0.9795733243367813,
+        "recall": 0.9839463915129786,
+        "map50": 0.9879771306637831,
+        "map50_95": 0.5548077556115211,
+        "evaluation_seconds": 33.02965869999025
+    },
+    {
+        "dataset": "road",
+        "task": "classification",
+        "accuracy": 0.999,
+        "precision": 1.0,
+        "recall": 0.998,
+        "f1": 0.998998998998999
+    }
+]
