@@ -1,0 +1,4 @@
+dataset,selected_variant,metric,score
+bottle,finetuned,mAP50-95,0.8966904633426118
+pcb,finetuned,mAP50-95,0.5735049068611203
+road,finetuned,F1,0.9993335554815062

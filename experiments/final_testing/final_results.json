@@ -1,0 +1,62 @@
+[
+    {
+        "dataset": "bottle",
+        "task": "detection",
+        "variant": "baseline",
+        "primary_metric": "mAP50-95",
+        "score": 0.8963879891309094,
+        "precision": 0.9670109594891115,
+        "recall": 0.9709702968514925,
+        "secondary_metric": 0.9820735036274845
+    },
+    {
+        "dataset": "bottle",
+        "task": "detection",
+        "variant": "finetuned",
+        "primary_metric": "mAP50-95",
+        "score": 0.8966904633426118,
+        "precision": 0.9737279159862814,
+        "recall": 0.9652940142357527,
+        "secondary_metric": 0.9790346385813005
+    },
+    {
+        "dataset": "pcb",
+        "task": "detection",
+        "variant": "baseline",
+        "primary_metric": "mAP50-95",
+        "score": 0.5548077556115211,
+        "precision": 0.9795733243367813,
+        "recall": 0.9839463915129786,
+        "secondary_metric": 0.9879771306637831
+    },
+    {
+        "dataset": "pcb",
+        "task": "detection",
+        "variant": "finetuned",
+        "primary_metric": "mAP50-95",
+        "score": 0.5735049068611203,
+        "precision": 0.978857361572334,
+        "recall": 0.987615852637089,
+        "secondary_metric": 0.9878409828808247
+    },
+    {
+        "dataset": "road",
+        "task": "classification",
+        "variant": "baseline",
+        "primary_metric": "F1",
+        "score": 0.998998998998999,
+        "precision": 1.0,
+        "recall": 0.998,
+        "secondary_metric": 0.999
+    },
+    {
+        "dataset": "road",
+        "task": "classification",
+        "variant": "finetuned",
+        "primary_metric": "F1",
+        "score": 0.9993335554815062,
+        "precision": 0.9990006662225184,
+        "recall": 0.9996666666666667,
+        "secondary_metric": 0.9993333333333333
+    }
+]

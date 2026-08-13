@@ -1,0 +1,32 @@
+{
+    "bottle": {
+        "task": "detection",
+        "input_size": 640,
+        "classes": [
+            "Cap",
+            "Missing",
+            "Wrong bottle",
+            "box"
+        ]
+    },
+    "pcb": {
+        "task": "detection",
+        "input_size": 640,
+        "classes": [
+            "mouse_bite",
+            "spur",
+            "missing_hole",
+            "short",
+            "open_circuit",
+            "spurious_copper"
+        ]
+    },
+    "road": {
+        "task": "classification",
+        "input_size": 224,
+        "classes": [
+            "Negative",
+            "Positive"
+        ]
+    }
+}

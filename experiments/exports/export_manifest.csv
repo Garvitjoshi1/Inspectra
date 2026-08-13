@@ -1,0 +1,4 @@
+dataset,format,source,output,size_mb,export_seconds
+bottle,ONNX,d:\Inspectra\experiments\finetuning\bottle\finetuned\weights\best.pt,d:\Inspectra\experiments\exports\bottle\bottle_finetuned.onnx,11.699328422546387,2.571062700008042
+pcb,ONNX,d:\Inspectra\experiments\finetuning\pcb\finetuned\weights\best.pt,d:\Inspectra\experiments\exports\pcb\pcb_finetuned.onnx,11.700858116149902,1.2454392000217922
+road,ONNX,d:\Inspectra\models\road\finetuned\resnet18_finetuned.pt,d:\Inspectra\experiments\exports\road\road_resnet18_finetuned.onnx,42.62987041473389,0.4402729999856092

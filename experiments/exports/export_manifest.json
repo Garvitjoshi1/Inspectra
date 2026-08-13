@@ -1,0 +1,26 @@
+[
+    {
+        "dataset": "bottle",
+        "format": "ONNX",
+        "source": "d:\\Inspectra\\experiments\\finetuning\\bottle\\finetuned\\weights\\best.pt",
+        "output": "d:\\Inspectra\\experiments\\exports\\bottle\\bottle_finetuned.onnx",
+        "size_mb": 11.699328422546387,
+        "export_seconds": 2.571062700008042
+    },
+    {
+        "dataset": "pcb",
+        "format": "ONNX",
+        "source": "d:\\Inspectra\\experiments\\finetuning\\pcb\\finetuned\\weights\\best.pt",
+        "output": "d:\\Inspectra\\experiments\\exports\\pcb\\pcb_finetuned.onnx",
+        "size_mb": 11.700858116149902,
+        "export_seconds": 1.2454392000217922
+    },
+    {
+        "dataset": "road",
+        "format": "ONNX",
+        "source": "d:\\Inspectra\\models\\road\\finetuned\\resnet18_finetuned.pt",
+        "output": "d:\\Inspectra\\experiments\\exports\\road\\road_resnet18_finetuned.onnx",
+        "size_mb": 42.62987041473389,
+        "export_seconds": 0.4402729999856092
+    }
+]
